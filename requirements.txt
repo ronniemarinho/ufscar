@@ -1,0 +1,10 @@
+streamlit
+matplotlib
+seaborn
+bambi
+pymc
+arviz
+pandas
+numpy
+scikit-learn
+
