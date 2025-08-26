@@ -68,6 +68,14 @@ col1, col2 = st.columns([1, 2])
 with col1:
     st.subheader("Código Python")
     st.code("""
+import streamlit as st
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import arviz as az
+import bambi as bmb
+
 df = pd.read_csv("base_milho.csv")
 volume = df["volume"].values
 produtividade = df["produtividade"].values
@@ -161,8 +169,11 @@ with st.expander("🔍 Ver Distribuições"):
     col1, col2 = st.columns([1, 2])
     with col1:
         st.code("""
-az.plot_trace(modelo_ajustado, var_names=["Intercept", "volume"])
-""", language="python")
+        
+az.plot_trace(modelo_ajustado, var_names=["Intercept", "volume"], figsize=(20, 10))
+plt.suptitle("Distribuição a posteriore dos parametros", fontsize=16)
+plt.tight_layout()
+plt.show()""", language="python")
     with col2:
         fig_trace, _ = plt.subplots(figsize=(12, 6))
         az.plot_trace(modelo_ajustado, var_names=["Intercept", "volume"])
@@ -176,8 +187,18 @@ st.header("3. Verificação Preditiva Posterior")
 col1, col2 = st.columns([1, 2])
 with col1:
     st.code("""
-az.plot_ppc(modelo_ajustado)
-""", language="python")
+ax = az.plot_ppc(modelo_ajustado)
+
+
+# Personalizando a legenda
+plt.legend(
+    handles,
+    ["Previsões Posteriores", "Observado", "Média da previsão posterior"],
+    loc="upper right"
+)
+
+plt.suptitle("Verificação preditiva Posterior", fontsize=16)
+plt.show()""", language="python")
 
 with col2:
     fig_ppc, ax = plt.subplots(figsize=(10, 6))

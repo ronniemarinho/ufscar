@@ -84,12 +84,15 @@ with col1:
         """
 import bambi as bmb
 
-priors = {
+
+
+model = bmb.Model(
+    "Weight ~ Time + (Time|Pig)", 
+    data=data, 
+    priors = {
     "Intercept": bmb.Prior("Normal", mu=20, sigma=5),
     "Time": bmb.Prior("Normal", mu=0.5, sigma=0.2)
-}
-
-model = bmb.Model("Weight ~ Time + (Time|Pig)", data, priors=priors)
+})
 results = model.fit()
 print(model)
         """,
