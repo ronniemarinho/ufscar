@@ -93,7 +93,9 @@ model = bmb.Model(
     "Intercept": bmb.Prior("Normal", mu=20, sigma=5),
     "Time": bmb.Prior("Normal", mu=0.5, sigma=0.2)
 })
-results = model.fit()
+results = model.fit(draws=1000,
+                    chains=4,
+                    random_seed=0)
 print(model)
         """,
         language="python",
