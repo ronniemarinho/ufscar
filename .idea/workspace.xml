@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa631bf6-11ee-4d83-b4df-bc478b0435c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lilian moda/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lilian moda/moda_lilian.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lilian moda/nuvem_genero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lilian moda/nuvem_palavra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProcessamentoDeLinguaNatural/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProcessamentoDeLinguaNatural/analise_sentimento_nuvem_palavra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProcessamentoDeLinguaNatural/gpt_geracao_texto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProcessamentoDeLinguaNatural/rasp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProcessamentoDeLinguaNatural/raspagem_asite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agua.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avocado.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avocado_base_git.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avocado_comentado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avocado_hieraquico_grafico.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avocado_hierarquico.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avocado_series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avocadopymc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avocadopymc_comentarios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_milho.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compara_mnodelo hieraquico.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/escola.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/escola_modelo_hieraquico.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grafico.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regressao_logisitca_wells.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regressao_logistica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serietemporal_compara.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sistema_intelligente_agua.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-score.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wells.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daia_baneco/HISTPROD.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fatec_mongo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fatec_mongo/sorteio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gestaodedados/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gestaodedados/credit_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gestaodedados/presencas.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llm/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llm/Relação de Alunos-3º Inf. Int (2).xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llm/agno_teste_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llm/app2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llm/assistente_virtual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llm/assistiente_virtual_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llm/avocado.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llm/clientes.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llm/erros.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llm/llm_agno.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llm/llm_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llm/llm_documentos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llm/llm_lang_rag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llm/parceiro_estudo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redis/.idea/redis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sistema inteligente tempo/2021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sistema inteligente tempo/avocado.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sistema inteligente tempo/avocado_base_git.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sistema inteligente tempo/avocado_base_git_hieraquico.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sistema inteligente tempo/avocado_base_git_series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sistema inteligente tempo/avocado_base_git_series_avalia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sistema inteligente tempo/avocado_times_series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sistema inteligente tempo/bayes_posterior.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sistema inteligente tempo/conve_py5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sistema inteligente tempo/conve_py5_logi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sistema inteligente tempo/fastapi_localizacao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sistema inteligente tempo/mc3_teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sistema inteligente tempo/mc4_teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sistema inteligente tempo/pinguins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sistema inteligente tempo/porlatlong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sistema inteligente tempo/timestamp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tcc_daia_banaco/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tcc_daia_banaco/HISTPROD.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../websemantica/.idea/websemantica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../websemantica/sistemaderecomendacao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProcessamentoDeLinguaNatural/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProcessamentoDeLinguaNatural/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProcessamentoDeLinguaNatural/geracao_texto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProcessamentoDeLinguaNatural/transformer_classificador_texto.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ProcessamentoDeLinguaNatural/transformer_classificador_texto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../censo" beforeDir="false" afterPath="$PROJECT_DIR$/../censo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestaodedados/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestaodedados/.idea/gestaodedados.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../gestaodedados/.idea/gestaodedados.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestaodedados/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gestaodedados/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../novoprojeto" beforeDir="false" afterPath="$PROJECT_DIR$/../novoprojeto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pagina-formulas" beforeDir="false" afterPath="$PROJECT_DIR$/../pagina-formulas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject10/organiza.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject10/organiza.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject9/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject9/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tempestade" beforeDir="false" afterPath="$PROJECT_DIR$/../tempestade" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ronniemarinho&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ronniemarinho/busca&quot;,
+    &quot;accountId&quot;: &quot;78be19e1-1110-4849-ad47-2544614818d4&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="313hS5mVhIt0HZB8PffLZFYJkSO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.agua.executor&quot;: &quot;Run&quot;,
+    &quot;Python.avocado_base_git.executor&quot;: &quot;Run&quot;,
+    &quot;Python.avocado_comentado.executor&quot;: &quot;Run&quot;,
+    &quot;Python.avocado_hieraquico_grafico.executor&quot;: &quot;Run&quot;,
+    &quot;Python.avocado_hierarquico.executor&quot;: &quot;Run&quot;,
+    &quot;Python.avocado_re_modi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.avocado_series.executor&quot;: &quot;Run&quot;,
+    &quot;Python.avocadopymc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.avocadopymc_comentarios.executor&quot;: &quot;Run&quot;,
+    &quot;Python.compara_mnodelo hieraquico.executor&quot;: &quot;Run&quot;,
+    &quot;Python.escola.executor&quot;: &quot;Run&quot;,
+    &quot;Python.escola_modelo_hieraquico.executor&quot;: &quot;Run&quot;,
+    &quot;Python.grafico.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.regressao_logistica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.serietemporal_compara.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sistema_intelligente_agua.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste.executor&quot;: &quot;Run&quot;,
+    &quot;Python.video.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ronnieshida/PycharmProjects/concurso_ufscar&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.agua">
+    <configuration name="agua" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="concurso_ufscar" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/agua.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="avocado_base_git" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="concurso_ufscar" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/avocado_base_git.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="avocado_series" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="concurso_ufscar" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/avocado_series.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="escola" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="concurso_ufscar" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/escola.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="concurso_ufscar" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sistema_intelligente_agua" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="concurso_ufscar" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sistema_intelligente_agua.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.agua" />
+        <item itemvalue="Python.sistema_intelligente_agua" />
+        <item itemvalue="Python.escola" />
+        <item itemvalue="Python.avocado_base_git" />
+        <item itemvalue="Python.avocado_series" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-8336bb23522e-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.19072.16" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa631bf6-11ee-4d83-b4df-bc478b0435c0" name="Changes" comment="" />
+      <created>1754758659239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754758659239</updated>
+    </task>
+    <servers />
+  </component>
+</project>
